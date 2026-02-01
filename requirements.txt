@@ -1,0 +1,20 @@
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.3.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Profanity detection
+better-profanity>=0.7.0
+
+# Speech-to-Text
+openai-whisper>=20231117
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional: for audio processing
+pydub>=0.25.1
